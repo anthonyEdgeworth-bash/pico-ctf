@@ -1,8 +1,6 @@
 
 # Reto
 
-
-
 # Descripción
 
 

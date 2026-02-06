@@ -8,51 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "95579daff70c58e1",
+            "id": "3206c9b39209d7cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Plantilla.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "Plantilla"
             }
           },
           {
-            "id": "3311bb998859442a",
+            "id": "b92f335d5f9ac994",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCFT/01 - General Skills/Lets Warm Up.md",
+                "file": "10 Nice netcat....md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lets Warm Up"
+              "title": "10 Nice netcat..."
             }
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "85f348b5f8a7ba84",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ec9441af20ca7709",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -125,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCFT/01 - General Skills/Lets Warm Up.md",
+                "file": "10 Nice netcat....md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Lets Warm Up"
+              "title": "Backlinks for 10 Nice netcat..."
             }
           },
           {
@@ -144,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCFT/01 - General Skills/Lets Warm Up.md",
+                "file": "10 Nice netcat....md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Lets Warm Up"
+              "title": "Outgoing links from 10 Nice netcat..."
             }
           },
           {
@@ -187,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCFT/01 - General Skills/Lets Warm Up.md",
+                "file": "10 Nice netcat....md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Lets Warm Up"
+              "title": "Outline of 10 Nice netcat..."
             }
           }
         ]
@@ -214,15 +198,25 @@
       "bases:Create new base": false
     }
   },
-  "active": "3311bb998859442a",
+  "active": "b92f335d5f9ac994",
   "lastOpenFiles": [
+    "picoCFT/01 - General Skills/09 Glitch Cat.md",
+    "10 Nice netcat....md",
     "Plantilla.md",
-    "picoCFT/01 - General Skills/Lets Warm Up.md",
+    "Welcome.md",
+    "Untitled",
+    "picoCFT/01 - General Skills/08 plumbing.md",
+    "picoCFT/01 - General Skills/07 what's a net cat?.md",
+    "picoCFT/01 - General Skills/06 Obedient Cat.md",
+    "picoCFT/01 - General Skills/05 First Grep.md",
+    "picoCFT/01 - General Skills/04 Bases.md",
+    "picoCFT/01 - General Skills/03 Warmed Up.md",
+    "picoCFT/01 - General Skills/01 Lets Warm Up.md",
+    "picoCFT/01 - General Skills/02 2Warm.md",
     "picoCFT/01 - General Skills",
     "picoCFT/Ingeniería en Computación/Fundamentos de la Seguridad de la Información",
     "picoCFT/Ingeniería en Computación",
     "picoCFT/_resources",
-    "Welcome.md",
     "picoCFT"
   ]
 }
