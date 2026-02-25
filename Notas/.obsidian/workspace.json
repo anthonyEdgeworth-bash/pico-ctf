@@ -22,77 +22,91 @@
             }
           },
           {
-            "id": "96afd5be656a14db",
+            "id": "d418550fd9e7f1cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCFT/04-prequel-General Skills/06 Blame Game.md",
+                "file": "picoCFT/05 picoCTF Web 1/01 Insp3ct0r.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "06 Blame Game"
+              "title": "01 Insp3ct0r"
             }
           },
           {
-            "id": "b0b385098f2fb22e",
+            "id": "b90992cb0094b824",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCFT/04-prequel-General Skills/07 collaborative development.md",
+                "file": "picoCFT/05 picoCTF Web 1/02 where are the robots.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "07 collaborative development"
+              "title": "02 where are the robots"
             }
           },
           {
-            "id": "e259cf5c8f1c7c76",
+            "id": "308b246666056313",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCFT/04-prequel-General Skills/08 Binary Search.md",
+                "file": "picoCFT/05 picoCTF Web 1/03 logon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "08 Binary Search"
+              "title": "03 logon"
             }
           },
           {
-            "id": "48466a49eae9aab0",
+            "id": "be32390efb71c758",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCFT/04-prequel-General Skills/09 binhexa.md",
+                "file": "Plantilla.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "09 binhexa"
+              "title": "Plantilla"
             }
           },
           {
-            "id": "aaf72d923af8d809",
+            "id": "36d8ad4cc266969b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCFT/04-prequel-General Skills/10 ASCII Numbers.md",
+                "file": "picoCFT/05 picoCTF Web 1/05 picobrowser.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10 ASCII Numbers"
+              "title": "05 picobrowser"
+            }
+          },
+          {
+            "id": "75492b7fe6eed850",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCFT/05 picoCTF Web 1/06 Client-side-again.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "06 Client-side-again"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -257,8 +271,18 @@
   "active": "37d862d0c33632f0",
   "lastOpenFiles": [
     "Plantilla.md",
+    "Welcome.md",
+    "picoCFT/05 picoCTF Web 1/06 Client-side-again.md",
+    "picoCFT/05 picoCTF Web 1/05 picobrowser.md",
+    "Untitled",
+    "picoCFT/05 picoCTF Web 1/04 dont-use-client-side.md",
+    "picoCFT/05 picoCTF Web 1/03 logon.md",
+    "picoCFT/05 picoCTF Web 1/02 where are the robots.md",
+    "picoCFT/05 picoCTF Web 1/01 Insp3ct0r.md",
     "picoCFT/04-prequel-General Skills/10 ASCII Numbers.md",
     "picoCFT/04-prequel-General Skills/09 binhexa.md",
+    "picoCFT/04-prequel-General Skills/01 Permissions.md",
+    "picoCFT/05 picoCTF Web 1",
     "picoCFT/04-prequel-General Skills/08 Binary Search.md",
     "picoCFT/04-prequel-General Skills/07 collaborative development.md",
     "picoCFT/04-prequel-General Skills/06 Blame Game.md",
@@ -266,8 +290,6 @@
     "picoCFT/04-prequel-General Skills/04 committee issue.md",
     "picoCFT/04-prequel-General Skills/03 Special.md",
     "picoCFT/04-prequel-General Skills/02 chrono.md",
-    "picoCFT/04-prequel-General Skills/01 Permissions.md",
-    "Welcome.md",
     "picoCFT/03 - General Skills/01 Super SSH.md",
     "picoCFT/04-prequel-General Skills",
     "picoCFT/03 - General Skills/10 Serpentine.md",
@@ -277,19 +299,12 @@
     "picoCFT/03 - General Skills/06 fixme2.py.md",
     "picoCFT/03 - General Skills/05 fixme1.py.md",
     "picoCFT/03 - General Skills/04 convertme.py.md",
-    "picoCFT/03 - General Skills/03 Codebook.md",
-    "picoCFT/03 - General Skills/02 runme.py.md",
-    "picoCFT/02-GeneralSkills/01 Based.md",
-    "picoCFT/02-GeneralSkills/10 First Find.md",
-    "Serpentine.md",
     "picoCFT/03 - General Skills",
     "picoCFT/02-GeneralSkills/Untitled",
-    "picoCFT/02-GeneralSkills/09 Big zip.md",
     "picoCFT/02-GeneralSkills",
     "picoCFT/01 - General Skills",
     "picoCFT/Ingeniería en Computación/Fundamentos de la Seguridad de la Información",
     "picoCFT/Ingeniería en Computación",
-    "picoCFT/_resources",
-    "picoCFT"
+    "picoCFT/_resources"
   ]
 }
