@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 JaWT Scratchpad.md",
+                "file": "picoCFT/07 picoCTF Web 3/01 Irish-Name-Repo 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03 JaWT Scratchpad"
+              "title": "01 Irish-Name-Repo 1"
             }
           },
           {
@@ -268,13 +268,13 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "38398869977b02f8",
+  "active": "37d862d0c33632f0",
   "lastOpenFiles": [
-    "02 More SQLi.md",
-    "03 JaWT Scratchpad.md",
+    "picoCFT/07 picoCTF Web 3/03 JaWT Scratchpad.md",
+    "picoCFT/07 picoCTF Web 3/02 More SQLi.md",
     "picoCFT/06 picoCTF Web 2/02 Cookies.md",
     "Plantilla.md",
-    "01 Irish-Name-Repo 1.md",
+    "picoCFT/07 picoCTF Web 3/01 Irish-Name-Repo 1.md",
     "picoCFT/06 picoCTF Web 2/03 Scavenger Hunt.md",
     "picoCFT/07 picoCTF Web 3",
     "Untitled.md",
