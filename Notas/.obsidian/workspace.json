@@ -8,13 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c02f4f83b13cc36e",
+            "id": "405dc083fe79b5f0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "picoCFT/14  picoCTF - Forensic 2/05 shark on wire 2.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "05 shark on wire 2"
             }
           }
         ]
@@ -179,14 +183,32 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "37d862d0c33632f0",
+  "active": "405dc083fe79b5f0",
   "lastOpenFiles": [
+    "picoCFT/14  picoCTF - Forensic 2/04 like1000.md",
+    "Plantilla.md",
+    "picoCFT/14  picoCTF - Forensic 2/05 shark on wire 2.md",
+    "picoCFT/14  picoCTF - Forensic 2/03 c0rrupt.md",
+    "picoCFT/14  picoCTF - Forensic 2/02 WhitePages.md",
+    "picoCFT/14  picoCTF - Forensic 2/01  m00nwalk.md",
+    "picoCFT/13 picoCTF - Forensic 1/05 What Lies Within.md",
+    "Piece by Piece.md",
+    "picoCFT/13 picoCTF - Forensic 1/04 extensions.md",
+    "picoCFT/13 picoCTF - Forensic 1/03 shark on wire 1.md",
+    "picoCFT/13 picoCTF - Forensic 1/02 So Meta.md",
+    "picoCFT/13 picoCTF - Forensic 1/01 Glory of the Garden.md",
     "picoCFT/08 picoCTF Web  4/02 SOAP.md",
+    "Welcome.md",
+    "picoCFT/14  picoCTF - Forensic 2",
+    "concurso",
+    "picoCFT/09 Tarea 2 - Web/01 Includes.md",
+    "picoCFT/13 picoCTF - Forensic 1",
+    "picoCFT/03 - General Skills/13 Tarea Forensic 1",
+    "picoCFT/09 Tarea 2 - Web",
     "picoCFT/08 picoCTF Web  4/03 Trickster.md",
     "picoCFT/08 picoCTF Web  4/01 MatchTheRegex.md",
     "picoCFT/08 picoCTF Web  4/04 Most Cookies.md",
     "picoCFT/07 picoCTF Web 3/03 JaWT Scratchpad.md",
-    "Plantilla.md",
     "picoCFT/08 picoCTF Web  4",
     "picoCFT/07 picoCTF Web 3/01 Irish-Name-Repo 1.md",
     "picoCFT/07 picoCTF Web 3/02 More SQLi.md",
@@ -195,27 +217,9 @@
     "picoCFT/07 picoCTF Web 3",
     "Untitled.md",
     "picoCFT/06 picoCTF Web 2/01 GET aHEAD.md",
-    "Welcome.md",
     "picoCFT/05 picoCTF Web 1/01 Insp3ct0r.md",
     "picoCFT/06 picoCTF Web 2",
-    "picoCFT/05 picoCTF Web 1/03 logon.md",
-    "picoCFT/05 picoCTF Web 1/06 Client-side-again.md",
-    "picoCFT/05 picoCTF Web 1/05 picobrowser.md",
-    "picoCFT/05 picoCTF Web 1/02 where are the robots.md",
     "Untitled",
-    "picoCFT/05 picoCTF Web 1/04 dont-use-client-side.md",
-    "picoCFT/04-prequel-General Skills/10 ASCII Numbers.md",
-    "picoCFT/04-prequel-General Skills/09 binhexa.md",
-    "picoCFT/04-prequel-General Skills/01 Permissions.md",
-    "picoCFT/05 picoCTF Web 1",
-    "picoCFT/04-prequel-General Skills/08 Binary Search.md",
-    "picoCFT/04-prequel-General Skills/07 collaborative development.md",
-    "picoCFT/04-prequel-General Skills/06 Blame Game.md",
-    "picoCFT/04-prequel-General Skills/05 time machine.md",
-    "picoCFT/04-prequel-General Skills",
-    "picoCFT/03 - General Skills",
-    "picoCFT/02-GeneralSkills/Untitled",
-    "picoCFT/02-GeneralSkills",
-    "picoCFT/01 - General Skills"
+    "picoCFT/05 picoCTF Web 1"
   ]
 }
