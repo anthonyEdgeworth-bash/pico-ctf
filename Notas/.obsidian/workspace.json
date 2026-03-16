@@ -13,15 +13,156 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCFT/14  picoCTF - Forensic 2/05 shark on wire 2.md",
+                "file": "picoCFT/06 picoCTF Web 2/03 Scavenger Hunt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05 shark on wire 2"
+              "title": "03 Scavenger Hunt"
+            }
+          },
+          {
+            "id": "85b823dc44225ea1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCFT/09 Web/01 Includes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01 Includes"
+            }
+          },
+          {
+            "id": "cf258b0cc14f111d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCFT/09 Web/01 Includes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01 Includes"
+            }
+          },
+          {
+            "id": "d741bfd17fcb23da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCFT/09 Web/03 IntroToBurp.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "03 IntroToBurp"
+            }
+          },
+          {
+            "id": "9b1a99b80df2bd28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCFT/09 Web/04 Local Authority.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "04 Local Authority"
+            }
+          },
+          {
+            "id": "5ea7f8c1a44488df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCFT/09 Web/05 Power Cookie.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "05 Power Cookie"
+            }
+          },
+          {
+            "id": "a9d3fb76a828d4b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCFT/09 Web/06 Roboto Sans.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "06 Roboto Sans"
+            }
+          },
+          {
+            "id": "3dbd3b62c167f06a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCFT/09 Web/07 Secrets.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "07 Secrets"
+            }
+          },
+          {
+            "id": "62b57665b5fbcabc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCFT/09 Web/08 SQLiLite.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "08 SQLiLite"
+            }
+          },
+          {
+            "id": "ff44f01a50cb892c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCFT/09 Web/09 Unminify.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "09 Unminify"
+            }
+          },
+          {
+            "id": "96c213fc5b43cea5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCFT/09 Web/10 WebDecode.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10 WebDecode"
             }
           }
-        ]
+        ],
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -183,11 +324,28 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "405dc083fe79b5f0",
+  "active": "96c213fc5b43cea5",
   "lastOpenFiles": [
-    "picoCFT/14  picoCTF - Forensic 2/04 like1000.md",
+    "picoCFT/09 Web/09 Unminify.md",
+    "picoCFT/09 Web/10 WebDecode.md",
     "Plantilla.md",
+    "picoCFT/09 Web/10 Unminify.md",
+    "picoCFT/09 Web/08 SQLiLite.md",
+    "picoCFT/09 Web/07 Secrets.md",
+    "picoCFT/09 Web/06 Roboto Sans.md",
+    "picoCFT/09 Web/05 Power Cookie.md",
+    "picoCFT/09 Web/04 Local Authority.md",
+    "picoCFT/09 Web/03 IntroToBurp.md",
+    "picoCFT/09 Web/02 Inspect HTML.md",
+    "picoCFT/09 Web/01 Includes.md",
+    "picoCFT/05 picoCTF Web 1/01 Insp3ct0r.md",
+    "09 Web.md",
+    "picoCFT/09 Web",
+    "picoCFT/06 picoCTF Web 2/03 Scavenger Hunt.md",
+    "picoCFT/06 picoCTF Web 2/02 Cookies.md",
+    "picoCFT/06 picoCTF Web 2/01 GET aHEAD.md",
     "picoCFT/14  picoCTF - Forensic 2/05 shark on wire 2.md",
+    "picoCFT/14  picoCTF - Forensic 2/04 like1000.md",
     "picoCFT/14  picoCTF - Forensic 2/03 c0rrupt.md",
     "picoCFT/14  picoCTF - Forensic 2/02 WhitePages.md",
     "picoCFT/14  picoCTF - Forensic 2/01  m00nwalk.md",
@@ -195,31 +353,14 @@
     "Piece by Piece.md",
     "picoCFT/13 picoCTF - Forensic 1/04 extensions.md",
     "picoCFT/13 picoCTF - Forensic 1/03 shark on wire 1.md",
-    "picoCFT/13 picoCTF - Forensic 1/02 So Meta.md",
-    "picoCFT/13 picoCTF - Forensic 1/01 Glory of the Garden.md",
-    "picoCFT/08 picoCTF Web  4/02 SOAP.md",
-    "Welcome.md",
     "picoCFT/14  picoCTF - Forensic 2",
     "concurso",
-    "picoCFT/09 Tarea 2 - Web/01 Includes.md",
     "picoCFT/13 picoCTF - Forensic 1",
     "picoCFT/03 - General Skills/13 Tarea Forensic 1",
     "picoCFT/09 Tarea 2 - Web",
-    "picoCFT/08 picoCTF Web  4/03 Trickster.md",
-    "picoCFT/08 picoCTF Web  4/01 MatchTheRegex.md",
-    "picoCFT/08 picoCTF Web  4/04 Most Cookies.md",
-    "picoCFT/07 picoCTF Web 3/03 JaWT Scratchpad.md",
     "picoCFT/08 picoCTF Web  4",
-    "picoCFT/07 picoCTF Web 3/01 Irish-Name-Repo 1.md",
-    "picoCFT/07 picoCTF Web 3/02 More SQLi.md",
-    "picoCFT/06 picoCTF Web 2/02 Cookies.md",
-    "picoCFT/06 picoCTF Web 2/03 Scavenger Hunt.md",
     "picoCFT/07 picoCTF Web 3",
-    "Untitled.md",
-    "picoCFT/06 picoCTF Web 2/01 GET aHEAD.md",
-    "picoCFT/05 picoCTF Web 1/01 Insp3ct0r.md",
     "picoCFT/06 picoCTF Web 2",
-    "Untitled",
-    "picoCFT/05 picoCTF Web 1"
+    "Untitled"
   ]
 }
