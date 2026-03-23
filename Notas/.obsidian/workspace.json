@@ -48,9 +48,163 @@
               "icon": "lucide-file",
               "title": "05 MacroHard WeakEdge"
             }
+          },
+          {
+            "id": "ea8d5c4a0e3098b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCFT/Concurso PicoCTF/01 Password Profiler.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01 Password Profiler"
+            }
+          },
+          {
+            "id": "b8949083122e9519",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCFT/Concurso PicoCTF/02 MY GIT.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02 MY GIT"
+            }
+          },
+          {
+            "id": "1aef4de267e6a3d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCFT/Concurso PicoCTF/03 bytemancy 0.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "03 bytemancy 0"
+            }
+          },
+          {
+            "id": "b23ce6aba30a7b51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCFT/Concurso PicoCTF/04 bytemancy 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "04 bytemancy 3"
+            }
+          },
+          {
+            "id": "2111562502c1a5ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCFT/Concurso PicoCTF/05 Echo Escape 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "05 Echo Escape 1"
+            }
+          },
+          {
+            "id": "0aca73d8ac4879fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCFT/Concurso PicoCTF/06 Quizploit.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "06 Quizploit"
+            }
+          },
+          {
+            "id": "13800d8934e3619e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCFT/Concurso PicoCTF/03 bytemancy 0.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "03 bytemancy 0"
+            }
+          },
+          {
+            "id": "6934ed663117bb7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCFT/Concurso PicoCTF/07 SUDO MAKE ME A SANDWICH.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "07 SUDO MAKE ME A SANDWICH"
+            }
+          },
+          {
+            "id": "e9bd36e612ac2bc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCFT/Concurso PicoCTF/08 Printer Shares.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "08 Printer Shares"
+            }
+          },
+          {
+            "id": "b3f5b9b5271a8398",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCFT/Concurso PicoCTF/09 Enumeración de Recursos Compartidos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "09 Enumeración de Recursos Compartidos"
+            }
+          },
+          {
+            "id": "e7f45bdec9dfb08d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCFT/Concurso PicoCTF/10 MultiCode.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10 MultiCode"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -214,13 +368,24 @@
   },
   "active": "37d862d0c33632f0",
   "lastOpenFiles": [
-    "picoCFT/15 picoCTF - Forensic 3/04 tunn3l v1s10n.md",
-    "picoCFT/15 picoCTF - Forensic 3/05 MacroHard WeakEdge.md",
     "Plantilla.md",
+    "picoCFT/Concurso PicoCTF/10 MultiCode.md",
+    "picoCFT/Concurso PicoCTF/09 Enumeración de Recursos Compartidos.md",
+    "picoCFT/Concurso PicoCTF/08 Printer Shares.md",
+    "picoCFT/Concurso PicoCTF/07 SUDO MAKE ME A SANDWICH.md",
+    "picoCFT/Concurso PicoCTF/06 Quizploit.md",
+    "picoCFT/Concurso PicoCTF/05 Echo Escape 1.md",
+    "picoCFT/Concurso PicoCTF/04 bytemancy 3.md",
+    "picoCFT/Concurso PicoCTF/03 bytemancy 0.md",
+    "picoCFT/Concurso PicoCTF/02 MY GIT.md",
+    "picoCFT/Concurso PicoCTF/01 Password Profiler.md",
+    "picoCFT/15 picoCTF - Forensic 3/05 MacroHard WeakEdge.md",
+    "picoCFT/15 picoCTF - Forensic 3/01 WebNet0.md",
+    "picoCFT/Concurso PicoCTF",
+    "picoCFT/15 picoCTF - Forensic 3/04 tunn3l v1s10n.md",
     "Pendientes.md",
     "picoCFT/15 picoCTF - Forensic 3/03- Matryoshka doll.md",
     "picoCFT/15 picoCTF - Forensic 3/02 Webnet1.md",
-    "picoCFT/15 picoCTF - Forensic 3/01 WebNet0.md",
     "picoCFT/09 Web/10 WebDecode.md",
     "picoCFT/09 Web/09 Unminify.md",
     "picoCFT/09 Web/08 SQLiLite.md",
@@ -230,25 +395,14 @@
     "picoCFT/09 Web/04 Local Authority.md",
     "picoCFT/09 Web/03 IntroToBurp.md",
     "picoCFT/09 Web/01 Includes.md",
-    "picoCFT/06 picoCTF Web 2/03 Scavenger Hunt.md",
-    "picoCFT/14  picoCTF - Forensic 2/01  m00nwalk.md",
-    "Sin título 1.md",
     "picoCFT/15 picoCTF - Forensic 3",
-    "picoCFT/09 Web/10 Unminify.md",
-    "picoCFT/09 Web/02 Inspect HTML.md",
-    "picoCFT/05 picoCTF Web 1/01 Insp3ct0r.md",
-    "09 Web.md",
     "picoCFT/09 Web",
-    "picoCFT/06 picoCTF Web 2/02 Cookies.md",
-    "picoCFT/06 picoCTF Web 2/01 GET aHEAD.md",
-    "picoCFT/14  picoCTF - Forensic 2/05 shark on wire 2.md",
     "picoCFT/14  picoCTF - Forensic 2",
     "concurso",
     "picoCFT/13 picoCTF - Forensic 1",
     "picoCFT/03 - General Skills/13 Tarea Forensic 1",
     "picoCFT/09 Tarea 2 - Web",
     "picoCFT/08 picoCTF Web  4",
-    "picoCFT/07 picoCTF Web 3",
-    "picoCFT/06 picoCTF Web 2"
+    "picoCFT/07 picoCTF Web 3"
   ]
 }
