@@ -8,203 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b24fd1b3b5f52bd3",
+            "id": "fffface769579fd5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCFT/15 picoCTF - Forensic 3/03- Matryoshka doll.md",
+                "file": "picoCFT/Examen/22 SSTI2 - Web Explototation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03- Matryoshka doll"
-            }
-          },
-          {
-            "id": "ddd14c95e1da5b80",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCFT/15 picoCTF - Forensic 3/04 tunn3l v1s10n.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "04 tunn3l v1s10n"
-            }
-          },
-          {
-            "id": "600aa163abbeae5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCFT/15 picoCTF - Forensic 3/05 MacroHard WeakEdge.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "05 MacroHard WeakEdge"
-            }
-          },
-          {
-            "id": "ea8d5c4a0e3098b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCFT/Concurso PicoCTF/01 Password Profiler.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01 Password Profiler"
-            }
-          },
-          {
-            "id": "b8949083122e9519",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCFT/Concurso PicoCTF/02 MY GIT.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "02 MY GIT"
-            }
-          },
-          {
-            "id": "1aef4de267e6a3d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCFT/Concurso PicoCTF/03 bytemancy 0.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "03 bytemancy 0"
-            }
-          },
-          {
-            "id": "b23ce6aba30a7b51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCFT/Concurso PicoCTF/04 bytemancy 3.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "04 bytemancy 3"
-            }
-          },
-          {
-            "id": "2111562502c1a5ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCFT/Concurso PicoCTF/05 Echo Escape 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "05 Echo Escape 1"
-            }
-          },
-          {
-            "id": "0aca73d8ac4879fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCFT/Concurso PicoCTF/06 Quizploit.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "06 Quizploit"
-            }
-          },
-          {
-            "id": "13800d8934e3619e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCFT/Concurso PicoCTF/03 bytemancy 0.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "03 bytemancy 0"
-            }
-          },
-          {
-            "id": "6934ed663117bb7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCFT/Concurso PicoCTF/07 SUDO MAKE ME A SANDWICH.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "07 SUDO MAKE ME A SANDWICH"
-            }
-          },
-          {
-            "id": "e9bd36e612ac2bc6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCFT/Concurso PicoCTF/08 Printer Shares.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "08 Printer Shares"
-            }
-          },
-          {
-            "id": "b3f5b9b5271a8398",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCFT/Concurso PicoCTF/09 Enumeración de Recursos Compartidos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "09 Enumeración de Recursos Compartidos"
-            }
-          },
-          {
-            "id": "e7f45bdec9dfb08d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCFT/Concurso PicoCTF/10 MultiCode.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "10 MultiCode"
+              "title": "22 SSTI2 - Web Explototation"
             }
           }
-        ],
-        "currentTab": 13
+        ]
       }
     ],
     "direction": "vertical"
@@ -366,43 +183,43 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "37d862d0c33632f0",
+  "active": "fffface769579fd5",
   "lastOpenFiles": [
-    "Plantilla.md",
-    "picoCFT/Concurso PicoCTF/10 MultiCode.md",
-    "picoCFT/Concurso PicoCTF/09 Enumeración de Recursos Compartidos.md",
-    "picoCFT/Concurso PicoCTF/08 Printer Shares.md",
-    "picoCFT/Concurso PicoCTF/07 SUDO MAKE ME A SANDWICH.md",
-    "picoCFT/Concurso PicoCTF/06 Quizploit.md",
-    "picoCFT/Concurso PicoCTF/05 Echo Escape 1.md",
-    "picoCFT/Concurso PicoCTF/04 bytemancy 3.md",
-    "picoCFT/Concurso PicoCTF/03 bytemancy 0.md",
-    "picoCFT/Concurso PicoCTF/02 MY GIT.md",
-    "picoCFT/Concurso PicoCTF/01 Password Profiler.md",
-    "picoCFT/15 picoCTF - Forensic 3/05 MacroHard WeakEdge.md",
-    "picoCFT/15 picoCTF - Forensic 3/01 WebNet0.md",
+    "picoCFT/Examen/21 SQL Direct - Web Explototation.md",
+    "picoCFT/Examen/22 SSTI2 - Web Explototation.md",
+    "picoCFT/Examen/22 SSTI2 - Web.md",
+    "picoCFT/Examen/2.8 SSTI2 - Web.md",
+    "picoCFT/Examen/19 findme -Web Explototation .md",
+    "picoCFT/Examen/21 SQL Direct - Web.md",
+    "picoCFT/Examen/2.7 SQL Direct - Web.md",
+    "picoCFT/Examen/20 Java Code Analysis - Web Explototation.md",
+    "picoCFT/Examen/20 Java Code Analysis - Web.md",
+    "picoCFT/Examen/2.6 Java Code Analysis - Web.md",
+    "picoCFT/Examen/18 Bookmarklet_Web Explototation.md",
+    "picoCFT/Examen/19 findme - .md",
+    "picoCFT/Examen/2.5 findme - Web.md",
+    "picoCFT/Examen/17 SansAlpha - General Skills.md",
+    "picoCFT/Examen/18 Bookmarklet - Web.md",
+    "picoCFT/Examen/2.1 Bookmarklet - Web.md",
+    "Sin nombre",
+    "picoCFT/Examen/16_SansAlpha - General Skills.md",
+    "picoCFT/Examen/15_Python Wrangling - General Skills.md",
+    "picoCFT/Examen/1.9 SansAlpha - General.md",
+    "picoCFT/Examen/14_Rust fixme 3_General Skills.md",
+    "picoCFT/Examen/1.8 Python Wrangling - General.md",
+    "picoCFT/Examen/13-Rust fixme 2General Skills.md",
+    "picoCFT/Examen/14_Rust fixme 3.md",
+    "picoCFT/Examen/5-Rust fixme 3.md",
+    "picoCFT/Examen/09 HashingJobApp_General Skills.md",
+    "picoCFT/Examen/12-Rust fixme 1General Skills.md",
+    "07",
+    "Primer Examen",
+    "picoCFT/16 picoCTF - Forensic 4",
+    "picoCFT/04-prequel-General Skills/16 picoCTF - Forensic 4",
+    "picoCFT/Examen",
     "picoCFT/Concurso PicoCTF",
-    "picoCFT/15 picoCTF - Forensic 3/04 tunn3l v1s10n.md",
-    "Pendientes.md",
-    "picoCFT/15 picoCTF - Forensic 3/03- Matryoshka doll.md",
-    "picoCFT/15 picoCTF - Forensic 3/02 Webnet1.md",
-    "picoCFT/09 Web/10 WebDecode.md",
-    "picoCFT/09 Web/09 Unminify.md",
-    "picoCFT/09 Web/08 SQLiLite.md",
-    "picoCFT/09 Web/07 Secrets.md",
-    "picoCFT/09 Web/06 Roboto Sans.md",
-    "picoCFT/09 Web/05 Power Cookie.md",
-    "picoCFT/09 Web/04 Local Authority.md",
-    "picoCFT/09 Web/03 IntroToBurp.md",
-    "picoCFT/09 Web/01 Includes.md",
     "picoCFT/15 picoCTF - Forensic 3",
     "picoCFT/09 Web",
-    "picoCFT/14  picoCTF - Forensic 2",
-    "concurso",
-    "picoCFT/13 picoCTF - Forensic 1",
-    "picoCFT/03 - General Skills/13 Tarea Forensic 1",
-    "picoCFT/09 Tarea 2 - Web",
-    "picoCFT/08 picoCTF Web  4",
-    "picoCFT/07 picoCTF Web 3"
+    "picoCFT/14  picoCTF - Forensic 2"
   ]
 }
