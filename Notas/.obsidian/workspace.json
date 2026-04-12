@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCFT/16 picoCTF - Forensic 4/09 Ph4nt0m 1ntrud3r.md",
+                "file": "picoCFT/17 picoCTF - Forensic 4/06 Operation Oni.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "09 Ph4nt0m 1ntrud3r"
+              "title": "06 Operation Oni"
             }
           }
         ],
@@ -228,10 +228,17 @@
   },
   "active": "21857cbec2b3d020",
   "lastOpenFiles": [
+    "picoCFT/17 picoCTF - Forensic 4/05 Operation Orchid.md",
+    "picoCFT/17 picoCTF - Forensic 4/04 Sleuthkit Apprentice.md",
+    "picoCFT/17 picoCTF - Forensic 4/03 Sleuthkit Intro.md",
+    "picoCFT/17 picoCTF - Forensic 4/02 Disk, disk, sleuth!.md",
+    "picoCFT/17 picoCTF - Forensic 4/01 Milkslap.md",
     "picoCFT/16 picoCTF - Forensic 4/08 RED.md",
     "picoCFT/16 picoCTF - Forensic 4/09 Ph4nt0m 1ntrud3r.md",
+    "picoCFT/17 picoCTF - Forensic 4/06 Operation Oni.md",
     "Plantilla.md",
     "Sin título.md",
+    "picoCFT/17 picoCTF - Forensic 4",
     "picoCFT/16 picoCTF - Forensic 4/07 Secret of the Polyglot.md",
     "picoCFT/Concurso PicoCTF/01 Password Profiler.md",
     "picoCFT/16 picoCTF - Forensic 4/06 CanYouSee.md",
@@ -248,13 +255,6 @@
     "picoCFT/Examen/2.8 SSTI2 - Web.md",
     "picoCFT/Examen/19 findme -Web Explototation .md",
     "picoCFT/Examen/21 SQL Direct - Web.md",
-    "picoCFT/Examen/2.7 SQL Direct - Web.md",
-    "picoCFT/Examen/20 Java Code Analysis - Web Explototation.md",
-    "picoCFT/Examen/20 Java Code Analysis - Web.md",
-    "picoCFT/Examen/2.6 Java Code Analysis - Web.md",
-    "picoCFT/Examen/18 Bookmarklet_Web Explototation.md",
-    "picoCFT/Examen/19 findme - .md",
-    "Sin nombre",
     "07",
     "Primer Examen",
     "picoCFT/16 picoCTF - Forensic 4",
