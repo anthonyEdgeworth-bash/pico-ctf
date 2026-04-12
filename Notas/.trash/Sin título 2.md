@@ -1,4 +1,4 @@
-Milkslap
+ilkslap
 
 Description
 🥛 http://wily-courier.picoctf.net:63802/

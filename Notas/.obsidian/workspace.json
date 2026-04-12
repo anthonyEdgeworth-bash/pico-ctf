@@ -8,20 +8,63 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fffface769579fd5",
+            "id": "2a9c80edc3aeaf59",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCFT/Examen/22 SSTI2 - Web Explototation.md",
+                "file": "picoCFT/16 picoCTF - Forensic 4/03 Redaction gone wrong.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "22 SSTI2 - Web Explototation"
+              "title": "03 Redaction gone wrong"
+            }
+          },
+          {
+            "id": "f8f6f3ae71f32243",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCFT/16 picoCTF - Forensic 4/04 hideme.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "04 hideme"
+            }
+          },
+          {
+            "id": "ee16d6d198e78a97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCFT/16 picoCTF - Forensic 4/08 RED.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "08 RED"
+            }
+          },
+          {
+            "id": "21857cbec2b3d020",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCFT/16 picoCTF - Forensic 4/09 Ph4nt0m 1ntrud3r.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "09 Ph4nt0m 1ntrud3r"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -183,10 +226,24 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "fffface769579fd5",
+  "active": "21857cbec2b3d020",
   "lastOpenFiles": [
-    "picoCFT/Examen/21 SQL Direct - Web Explototation.md",
+    "picoCFT/16 picoCTF - Forensic 4/08 RED.md",
+    "picoCFT/16 picoCTF - Forensic 4/09 Ph4nt0m 1ntrud3r.md",
+    "Plantilla.md",
+    "Sin título.md",
+    "picoCFT/16 picoCTF - Forensic 4/07 Secret of the Polyglot.md",
+    "picoCFT/Concurso PicoCTF/01 Password Profiler.md",
+    "picoCFT/16 picoCTF - Forensic 4/06 CanYouSee.md",
+    "picoCFT/16 picoCTF - Forensic 4/05 Scan Surprise.md",
+    "picoCFT/16 picoCTF - Forensic 4/04 hideme.md",
+    "picoCFT/16 picoCTF - Forensic 4/03 Redaction gone wrong.md",
+    "picoCFT/16 picoCTF - Forensic 4/01 information.md",
     "picoCFT/Examen/22 SSTI2 - Web Explototation.md",
+    "picoCFT/15 picoCTF - Forensic 3/01 WebNet0.md",
+    "picoCFT/16 picoCTF - Forensic 4/02 St3g0.md",
+    "picoCFT/14  picoCTF - Forensic 2/01  m00nwalk.md",
+    "picoCFT/Examen/21 SQL Direct - Web Explototation.md",
     "picoCFT/Examen/22 SSTI2 - Web.md",
     "picoCFT/Examen/2.8 SSTI2 - Web.md",
     "picoCFT/Examen/19 findme -Web Explototation .md",
@@ -197,21 +254,7 @@
     "picoCFT/Examen/2.6 Java Code Analysis - Web.md",
     "picoCFT/Examen/18 Bookmarklet_Web Explototation.md",
     "picoCFT/Examen/19 findme - .md",
-    "picoCFT/Examen/2.5 findme - Web.md",
-    "picoCFT/Examen/17 SansAlpha - General Skills.md",
-    "picoCFT/Examen/18 Bookmarklet - Web.md",
-    "picoCFT/Examen/2.1 Bookmarklet - Web.md",
     "Sin nombre",
-    "picoCFT/Examen/16_SansAlpha - General Skills.md",
-    "picoCFT/Examen/15_Python Wrangling - General Skills.md",
-    "picoCFT/Examen/1.9 SansAlpha - General.md",
-    "picoCFT/Examen/14_Rust fixme 3_General Skills.md",
-    "picoCFT/Examen/1.8 Python Wrangling - General.md",
-    "picoCFT/Examen/13-Rust fixme 2General Skills.md",
-    "picoCFT/Examen/14_Rust fixme 3.md",
-    "picoCFT/Examen/5-Rust fixme 3.md",
-    "picoCFT/Examen/09 HashingJobApp_General Skills.md",
-    "picoCFT/Examen/12-Rust fixme 1General Skills.md",
     "07",
     "Primer Examen",
     "picoCFT/16 picoCTF - Forensic 4",
