@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCFT/17 picoCTF - Forensic 4/06 Operation Oni.md",
+                "file": "picoCFT/18 picoCTF Crypto 1/07 waves over lambda.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "06 Operation Oni"
+              "title": "07 waves over lambda"
             }
           }
         ],
@@ -228,6 +228,18 @@
   },
   "active": "21857cbec2b3d020",
   "lastOpenFiles": [
+    "picoCFT/18 picoCTF Crypto 1/08 interencdec.md",
+    "picoCFT/18 picoCTF Crypto 1/07 waves over lambda.md",
+    "picoCFT/18 picoCTF Crypto 1/06 Tapping.md",
+    "picoCFT/18 picoCTF Crypto 1/05 la cifra de.md",
+    "picoCFT/18 picoCTF Crypto 1/04 Easy 1.md",
+    "picoCFT/18 picoCTF Crypto 1/03 caesar.md",
+    "picoCFT/18 picoCTF Crypto 1/01 The numbers.md",
+    "picoCFT/18 picoCTF Crypto 1/02 13.md",
+    "Plantilla.md",
+    "picoCFT/17 picoCTF - Forensic 4/06 Operation Oni.md",
+    "picoCFT/18 picoCTF Crypto 1",
+    "picoCFT/05 picoCTF Web 1/18 picoCTF Crypto  1",
     "picoCFT/17 picoCTF - Forensic 4/05 Operation Orchid.md",
     "picoCFT/17 picoCTF - Forensic 4/04 Sleuthkit Apprentice.md",
     "picoCFT/17 picoCTF - Forensic 4/03 Sleuthkit Intro.md",
@@ -235,8 +247,6 @@
     "picoCFT/17 picoCTF - Forensic 4/01 Milkslap.md",
     "picoCFT/16 picoCTF - Forensic 4/08 RED.md",
     "picoCFT/16 picoCTF - Forensic 4/09 Ph4nt0m 1ntrud3r.md",
-    "picoCFT/17 picoCTF - Forensic 4/06 Operation Oni.md",
-    "Plantilla.md",
     "Sin título.md",
     "picoCFT/17 picoCTF - Forensic 4",
     "picoCFT/16 picoCTF - Forensic 4/07 Secret of the Polyglot.md",
@@ -247,22 +257,12 @@
     "picoCFT/16 picoCTF - Forensic 4/03 Redaction gone wrong.md",
     "picoCFT/16 picoCTF - Forensic 4/01 information.md",
     "picoCFT/Examen/22 SSTI2 - Web Explototation.md",
-    "picoCFT/15 picoCTF - Forensic 3/01 WebNet0.md",
-    "picoCFT/16 picoCTF - Forensic 4/02 St3g0.md",
-    "picoCFT/14  picoCTF - Forensic 2/01  m00nwalk.md",
-    "picoCFT/Examen/21 SQL Direct - Web Explototation.md",
-    "picoCFT/Examen/22 SSTI2 - Web.md",
-    "picoCFT/Examen/2.8 SSTI2 - Web.md",
-    "picoCFT/Examen/19 findme -Web Explototation .md",
-    "picoCFT/Examen/21 SQL Direct - Web.md",
     "07",
     "Primer Examen",
     "picoCFT/16 picoCTF - Forensic 4",
     "picoCFT/04-prequel-General Skills/16 picoCTF - Forensic 4",
     "picoCFT/Examen",
     "picoCFT/Concurso PicoCTF",
-    "picoCFT/15 picoCTF - Forensic 3",
-    "picoCFT/09 Web",
-    "picoCFT/14  picoCTF - Forensic 2"
+    "picoCFT/15 picoCTF - Forensic 3"
   ]
 }
