@@ -4,67 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "6ba28b95ffe17ec5",
+        "id": "ac3ba02b9abe96b8",
         "type": "tabs",
         "children": [
           {
-            "id": "2a9c80edc3aeaf59",
+            "id": "47a18a39d8aae3f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCFT/16 picoCTF - Forensic 4/03 Redaction gone wrong.md",
+                "file": "picoCFT/19 picoCTF Crypto 2/rsa pop quiz.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03 Redaction gone wrong"
+              "title": "rsa pop quiz"
             }
           },
           {
-            "id": "f8f6f3ae71f32243",
+            "id": "51852d22080edada",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCFT/16 picoCTF - Forensic 4/04 hideme.md",
+                "file": "picoCFT/20 picoCTF Crypto 2/04 b00tl3gRSA3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04 hideme"
-            }
-          },
-          {
-            "id": "ee16d6d198e78a97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCFT/16 picoCTF - Forensic 4/08 RED.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "08 RED"
-            }
-          },
-          {
-            "id": "21857cbec2b3d020",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCFT/18 picoCTF Crypto 1/07 waves over lambda.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "07 waves over lambda"
+              "title": "04 b00tl3gRSA3"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -226,17 +198,26 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "21857cbec2b3d020",
+  "active": "51852d22080edada",
   "lastOpenFiles": [
-    "picoCFT/18 picoCTF Crypto 1/08 interencdec.md",
+    "picoCFT/20 picoCTF Crypto 2/03 b00tl3gRSA2.md",
+    "picoCFT/20 picoCTF Crypto 2/02 Mind your Ps and Qs.md",
+    "picoCFT/20 picoCTF Crypto 2/01 Mini RSA.md",
+    "picoCFT/20 picoCTF Crypto 2/04 b00tl3gRSA3.md",
+    "Plantilla.md",
+    "Welcome.md",
+    "Sin título.md",
+    "picoCFT/19 picoCTF Crypto 2/rsa pop quiz.md",
+    "picoCFT/20 picoCTF Crypto 2",
     "picoCFT/18 picoCTF Crypto 1/07 waves over lambda.md",
+    "picoCFT/19 picoCTF Crypto 2",
+    "picoCFT/18 picoCTF Crypto 1/08 interencdec.md",
     "picoCFT/18 picoCTF Crypto 1/06 Tapping.md",
     "picoCFT/18 picoCTF Crypto 1/05 la cifra de.md",
     "picoCFT/18 picoCTF Crypto 1/04 Easy 1.md",
     "picoCFT/18 picoCTF Crypto 1/03 caesar.md",
     "picoCFT/18 picoCTF Crypto 1/01 The numbers.md",
     "picoCFT/18 picoCTF Crypto 1/02 13.md",
-    "Plantilla.md",
     "picoCFT/17 picoCTF - Forensic 4/06 Operation Oni.md",
     "picoCFT/18 picoCTF Crypto 1",
     "picoCFT/05 picoCTF Web 1/18 picoCTF Crypto  1",
@@ -247,22 +228,13 @@
     "picoCFT/17 picoCTF - Forensic 4/01 Milkslap.md",
     "picoCFT/16 picoCTF - Forensic 4/08 RED.md",
     "picoCFT/16 picoCTF - Forensic 4/09 Ph4nt0m 1ntrud3r.md",
-    "Sin título.md",
     "picoCFT/17 picoCTF - Forensic 4",
     "picoCFT/16 picoCTF - Forensic 4/07 Secret of the Polyglot.md",
     "picoCFT/Concurso PicoCTF/01 Password Profiler.md",
-    "picoCFT/16 picoCTF - Forensic 4/06 CanYouSee.md",
-    "picoCFT/16 picoCTF - Forensic 4/05 Scan Surprise.md",
-    "picoCFT/16 picoCTF - Forensic 4/04 hideme.md",
-    "picoCFT/16 picoCTF - Forensic 4/03 Redaction gone wrong.md",
-    "picoCFT/16 picoCTF - Forensic 4/01 information.md",
-    "picoCFT/Examen/22 SSTI2 - Web Explototation.md",
     "07",
     "Primer Examen",
     "picoCFT/16 picoCTF - Forensic 4",
     "picoCFT/04-prequel-General Skills/16 picoCTF - Forensic 4",
-    "picoCFT/Examen",
-    "picoCFT/Concurso PicoCTF",
-    "picoCFT/15 picoCTF - Forensic 3"
+    "picoCFT/Examen"
   ]
 }
