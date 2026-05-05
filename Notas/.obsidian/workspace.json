@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCFT/Tarea 04 Crypto/10 Vigenere.md",
+                "file": "picoCFT/21 picoCTF Crypto 05/05 flags.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10 Vigenere"
+              "title": "05 flags"
             }
           }
         ]
@@ -185,8 +185,17 @@
   },
   "active": "28cc4ad3df1d8bd9",
   "lastOpenFiles": [
-    "picoCFT/Tarea 04 Crypto/09 substitution2.md",
+    "picoCFT/21 picoCTF Crypto 05/04 ReadMyCert.md",
+    "picoCFT/21 picoCTF Crypto 05/03 HideToSee.md",
+    "picoCFT/21 picoCTF Crypto 05/02 basic-mod1.md",
+    "picoCFT/21 picoCTF Crypto 05/01 Pixelated.md",
+    "picoCFT/21 picoCTF Crypto 05/05 flags.md",
+    "Plantilla.md",
+    "Plantilla 1 1.md",
+    "Welcome.md",
     "picoCFT/Tarea 04 Crypto/10 Vigenere.md",
+    "picoCFT/21 picoCTF Crypto 05",
+    "picoCFT/Tarea 04 Crypto/09 substitution2.md",
     "picoCFT/Tarea 04 Crypto/08 substitution1.md",
     "picoCFT/Tarea 04 Crypto/07 substitution0.md",
     "picoCFT/Tarea 04 Crypto/06 rail-fence.md",
@@ -195,31 +204,22 @@
     "picoCFT/Tarea 04 Crypto/03 EVEN RSA CAN BE BROKEN???.md",
     "picoCFT/Tarea 04 Crypto/02 credstuff.md",
     "picoCFT/Tarea 04 Crypto/01 Crack the Power.md",
-    "Plantilla.md",
     "picoCFT/19 picoCTF Crypto 2/01 rsa pop quiz.md",
     "picoCFT/Tarea 04 Crypto",
     "picoCFT/20 picoCTF Crypto 2/04 b00tl3gRSA3.md",
     "picoCFT/20 picoCTF Crypto 2/03 b00tl3gRSA2.md",
     "picoCFT/20 picoCTF Crypto 2/02 Mind your Ps and Qs.md",
     "picoCFT/20 picoCTF Crypto 2/01 Mini RSA.md",
-    "Welcome.md",
     "Sin título.md",
     "picoCFT/20 picoCTF Crypto 2",
     "picoCFT/18 picoCTF Crypto 1/07 waves over lambda.md",
     "picoCFT/19 picoCTF Crypto 2",
     "picoCFT/18 picoCTF Crypto 1/08 interencdec.md",
-    "picoCFT/18 picoCTF Crypto 1/06 Tapping.md",
-    "picoCFT/18 picoCTF Crypto 1/05 la cifra de.md",
-    "picoCFT/18 picoCTF Crypto 1/04 Easy 1.md",
-    "picoCFT/18 picoCTF Crypto 1/03 caesar.md",
-    "picoCFT/18 picoCTF Crypto 1/01 The numbers.md",
-    "picoCFT/18 picoCTF Crypto 1/02 13.md",
     "picoCFT/18 picoCTF Crypto 1",
     "picoCFT/05 picoCTF Web 1/18 picoCTF Crypto  1",
     "picoCFT/17 picoCTF - Forensic 4",
     "07",
     "Primer Examen",
-    "picoCFT/16 picoCTF - Forensic 4",
-    "picoCFT/04-prequel-General Skills/16 picoCTF - Forensic 4"
+    "picoCFT/16 picoCTF - Forensic 4"
   ]
 }
